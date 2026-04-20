@@ -1,6 +1,6 @@
-# 🍉 Fruit Slicer Game 🔪
+# 🍉 Fruit Frenzy Game 🔪
 
-**Fruit Slicer** is a fast-paced and engaging web-based game where players test their reflexes by slicing fruits flying across the screen. This standalone HTML build runs entirely in the browser — **no setup, no backend, just pure fun.**
+**Fruit Frenzy** is a fast-paced and engaging web-based game where players test their reflexes by slicing fruits flying across the screen. This standalone HTML build runs entirely in the browser — **no setup, no backend, just pure fun.**
 
 ---
 
